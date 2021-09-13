@@ -1,4 +1,4 @@
-<h1 align="center">CovidOff</h1>
+<h1 align="center">Time SetUp</h1>
 <p align="center">    
     <img src=https://img.shields.io/github/license/covidoff/covidoff>  
     <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
@@ -8,8 +8,6 @@
 </p>
 <br>
 
-## Website: https://covidoff.live
-## Data Resource Portal: https://covidoff.live/viewdata.html
 <br>
 
 ### The existing social problem in brief
